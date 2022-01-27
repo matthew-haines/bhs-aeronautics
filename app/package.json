@@ -10,7 +10,7 @@
   "author": "Matthew Haines",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.113.2",
+    "three": "^0.137.0",
     "ws": "^7.0.0"
   },
   "devDependencies": {
